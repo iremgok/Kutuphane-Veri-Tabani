@@ -1,0 +1,9 @@
+Harry Potter and the philosopher's stone,J.K. Rowling,1997,Bloomsbury Publishing,0747532745,2,Mevcut
+Nutuk,Mustafa Kemal Ataturk,1963,Milli Egitim Basimevi,985462147,5,Mevcut
+Sefiller,Victor Hugo, 1990,Oda Yayinevi,9753850050,2,Mevcut
+Romeo ve Juliet,William Shakespeare,2012,Turkiye is Bankasi Kultur Yayinlari,9789944888011,1,Mevcut
+Ana Karenina,Lev Tolstoy,2008,Harlow Yayinevi,9781405865296,1,Mevcut
+Donusum,Franz Kafka,2008,Can Yayinevi,9789755100210,3,Mevcut
+Bilinmeyen Bir Kadinin Mektubu,Stefan Zweig,2013,Yordam Kitap Yayinevi,9786055541835,4,Mevcut
+Tutunamayanlar,Oguz Atay,2020, iletisim Yayinevi,9789754700114,3,Mevcut
+Masumiyet Muzesi,Orhan Pamuk,2012,iletitim Yayinevi,9789750506260,2,Mevcut

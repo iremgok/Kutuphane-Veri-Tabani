@@ -1,0 +1,3 @@
+Sefiller,Victor Hugo, 1990,Oda Yayinevi,9753850050,2,kiralik
+Ana Karenina,Lev Tolstoy,2008,Harlow Yayinevi,9781405865296,1,kiralik
+Masumiyet Muzesi,Orhan Pamuk,2012,iletitim Yayinevi,9789750506260,1,kiralik
